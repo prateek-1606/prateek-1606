@@ -9,7 +9,8 @@ Apart from Web development, I also have interest working with machine learning a
 
 I am also a competitive programmer. Participating in programming contests has improved my problem-solving skills and also sharpen my data structures and algorithms in a fun competitive way.
 
-- 📫 Reach me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prateek-varshney-2a29a9193/)
+- Connect me on: [![Linkedin Badge](https://img.shields.io/badge/-Prateek%20Varshney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-varshney-2a29a9193/ "Connect on LinkedIn")
+- Email me on [![Gmail Badge](https://img.shields.io/badge/-varshneyprateek20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:varshneyprateek20@gmail.com "Connect via Email")
 
 **Languages and Tools:**  
 
@@ -17,4 +18,4 @@ I am also a competitive programmer. Participating in programming contests has im
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Nodejs" width="60" height="40"/> </a>
 <a href="https://www.mongodb.com/cloud/atlas" target="_blank"> <img src="https://clipartart.com/images/mongodb-logo-clipart-6.jpg" alt="MongoDb" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="http://ww1.prweb.com/prfiles/2018/10/05/15812110/postman-logo-vert-2018.png" alt="MongoDb" width="40" height="40"/> </a></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-1606&show_icons=true&locale=en" alt="prateek-1606" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-1606&show_icons=true&locale=en&theme=vue-dark" alt="prateek-1606" /></p>
