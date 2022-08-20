@@ -11,6 +11,7 @@ I am also a competitive programmer. Participating in programming contests has im
 
 - Connect me on: [![Linkedin Badge](https://img.shields.io/badge/-Prateek%20Varshney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-varshney-2a29a9193/ "Connect on LinkedIn")
 - Email me on [![Gmail Badge](https://img.shields.io/badge/-varshneyprateek20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:varshneyprateek20@gmail.com "Connect via Email")
+- 📄Know about my experiences [Here](https://bit.ly/PrateekSDE)
 
 **Languages and Tools:**  
 
